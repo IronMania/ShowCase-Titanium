@@ -3,6 +3,7 @@ function ApplicationTabGroup(Window) {
 	Ti.include('WinHelloGeo.js');
 	Ti.include('WinHelloCam.js');
 	//create module instance
+	
 	var self = Ti.UI.createTabGroup();
 	
 
